@@ -23,3 +23,5 @@ Your entry should maintain alphabetic order and it should be in the format:
 `* your name [username](http://github.com/username)`. 
 
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
+
+* Sartaj Singh [leosartaj](http://github.com/leosartaj)
