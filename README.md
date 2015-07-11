@@ -13,7 +13,7 @@ Your first exercise is to add your name to this list. To complete this exercise 
 - **Fork the repo, create a new branch, make changes and send a pull request**
   - [This article](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are how to use them.
   - A step by step guide can be found [here](https://github.com/asmeurer/git-workflow).
-  - This file is written in the Markdown format. Learn about it [here](https://guides.github.com/features/mastering-markdown/). 
+  - This file is written in the Markdown format. Learn about it from [here](https://guides.github.com/features/mastering-markdown/). Get [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
 Your entry should maintain alphabetic order and it should be in the format:
 
@@ -21,6 +21,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
+* Govind Sahai [mafiya69](http://github.com/mafiya69)
 * Rehas Sachdeva [rehassachdeva](http://github.com/rehassachdeva)
 * Rishabh Daal [rd13123013](http://github.com/rd13123013)
 * Sartaj Singh [leosartaj](http://github.com/leosartaj)
