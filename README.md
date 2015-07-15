@@ -32,3 +32,4 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * You should also go through the [curated list of git resource](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
   provided by github to find other resouces to fit your need.
 * Here's a fun game based on git, [git-game](https://github.com/git-game/git-game).
+* A list of cool features of Git and Github http://git.io/sheet.
