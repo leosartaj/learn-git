@@ -21,6 +21,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
+* Arun Meena [arun11meena](http:/github.com/arun11meena)
 * Govind Sahai [mafiya69](http://github.com/mafiya69)
 * Rehas Sachdeva [rehassachdeva](http://github.com/rehassachdeva)
 * Rishabh Daal [rd13123013](http://github.com/rd13123013)
