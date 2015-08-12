@@ -27,9 +27,9 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Sartaj Singh [leosartaj](http://github.com/leosartaj)
 * Shivam Tyagi [shivamT95](http://github.com/shivamT95)
 * Arun Meena [arun11meena](http:/github.com/arun11meena)
-### Other Resources
+                                                                                ### Other Resources
 
 * You should also go through the [curated list of git resource](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
   provided by github to find other resouces to fit your need.
 * Here's a fun game based on git, [git-game](https://github.com/git-game/git-game).
-* A list of cool features of Git and Github http://git.io/sheet.
+ A list of cool features of Git and Github http://git.io/sheet.
