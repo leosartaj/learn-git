@@ -21,12 +21,12 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
+* Arun Meena [arun11meena](http:/github.com/arun11meena)
 * Govind Sahai [mafiya69](http://github.com/mafiya69)
 * Rehas Sachdeva [rehassachdeva](http://github.com/rehassachdeva)
 * Rishabh Daal [rd13123013](http://github.com/rd13123013)
 * Sartaj Singh [leosartaj](http://github.com/leosartaj)
 * Shivam Tyagi [shivamT95](http://github.com/shivamT95)
-* Arun Meena [arun11meena](http:/github.com/arun11meena)
                                                                                 ### Other Resources
 
 * You should also go through the [curated list of git resource](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
