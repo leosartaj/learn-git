@@ -21,8 +21,9 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
-* Arun Meena [arun11meena](http:/github.com/arun11meena)
-* Avinash Agarwal [manu4rhyme](http:/github.com/manu4rhyme)
+* Arun Meena [arun11meena](http://github.com/arun11meena)
+* Avinash Agarwal [manu4rhyme](http://github.com/manu4rhyme)
+* Dushyant Mishra [zero1hac](http://github.com/zero1hac)
 * Govind Sahai [mafiya69](http://github.com/mafiya69)
 * Rehas Sachdeva [rehassachdeva](http://github.com/rehassachdeva)
 * Rishabh Daal [rd13123013](http://github.com/rd13123013)
