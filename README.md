@@ -28,6 +28,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Rehas Sachdeva [rehassachdeva](http://github.com/rehassachdeva)
 * Rishabh Daal [rd13123013](http://github.com/rd13123013)
 * Sartaj Singh [leosartaj](http://github.com/leosartaj)
+* Shashank Shekhar [sskhrnwbie](https://github.com/sshkhrnwbie)
 * Shivam Tyagi [shivamT95](http://github.com/shivamT95)
 * Sumith [Sumith1896](http://github.com/Sumith1896)
 * Yashu Seth [yashu-seth](http://github.com/yashu-seth)
@@ -44,3 +45,4 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Interactive git guide, [here](http://pcottle.github.io/learnGitBranching/)
 * Comprehensive tutorial, [here]( https://www.atlassian.com/git/tutorials/)
 * Exhaustive book, [here](http://git-scm.com/book/en/v2)
+* A series of 4 do-it-yourself courses at codeschool.com, [here](https://www.codeschool.com/paths/git). DISCLAIMER : Not all of them are free.
