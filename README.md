@@ -45,4 +45,3 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Interactive git guide, [here](http://pcottle.github.io/learnGitBranching/)
 * Comprehensive tutorial, [here]( https://www.atlassian.com/git/tutorials/)
 * Exhaustive book, [here](http://git-scm.com/book/en/v2)
-* A series of 4 do-it-yourself courses at codeschool.com, [here](https://www.codeschool.com/paths/git). DISCLAIMER : Not all of them are free.
