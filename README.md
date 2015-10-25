@@ -2,7 +2,7 @@
 
 Inspired from [git-sandbox](https://github.com/AGV-IIT-KGP/git-sandbox)
 
-This is a place to practice git.
+This is a place to practice git. 
 
 - **Learn to use git**:
   - Go through the try git tutorial at https://try.github.io/levels/1/challenges/1
@@ -17,23 +17,23 @@ Your first exercise is to add your name to [this](AUTHORS.md) list. To complete 
 
 Your entry should maintain alphabetic order and it should be in the format:
 
-`* your name [username](https://github.com/username)`.
+`* your name [username](http://github.com/username)`. 
 
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 After adding the name execute update.py to update the readme.
 
-* Arun Meena [arun11meena](http://github.com/arun11meena)
-* Avinash Agarwal [manu4rhyme](http://github.com/manu4rhyme)
-* Dushyant Mishra [zero1hac](http://github.com/zero1hac)
-* Govind Sahai [mafiya69](http://github.com/mafiya69)
-* Rehas Sachdeva [rehassachdeva](http://github.com/rehassachdeva)
-* Rishabh Daal [rd13123013](http://github.com/rd13123013)
-* Sartaj Singh [leosartaj](http://github.com/leosartaj)
+* Arun Meena [arun11meena](https://github.com/arun11meena)
+* Avinash Agarwal [manu4rhyme](https://github.com/manu4rhyme)
+* Dushyant Mishra [zero1hac](https://github.com/zero1hac)
+* Govind Sahai [mafiya69](https://github.com/mafiya69)
+* Rehas Sachdeva [rehassachdeva](https://github.com/rehassachdeva)
+* Rishabh Daal [rd13123013](https://github.com/rd13123013)
+* Sartaj Singh [leosartaj](https://github.com/leosartaj)
 * Shashank Shekhar [sshkhrnwbie](https://github.com/sshkhrnwbie)
-* Shivam Tyagi [shivamT95](http://github.com/shivamT95)
-* Sumith [Sumith1896](http://github.com/Sumith1896)
-* Yashu Seth [yashu-seth](http://github.com/yashu-seth)
-* Yatna Verma [yatna](http://github.com/yatna)
+* Shivam Tyagi [shivamT95](https://github.com/shivamT95)
+* Sumith [Sumith1896](https://github.com/Sumith1896)
+* Yashu Seth [yashu-seth](https://github.com/yashu-seth)
+* Yatna Verma [yatna](https://github.com/yatna)
 
 ### Other Resources
 
