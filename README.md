@@ -2,7 +2,7 @@
 
 Inspired from [git-sandbox](https://github.com/AGV-IIT-KGP/git-sandbox)
 
-This is a place to practice git. 
+This is a place to practice git.
 
 - **Learn to use git**:
   - Go through the try git tutorial at https://try.github.io/levels/1/challenges/1
@@ -17,7 +17,7 @@ Your first exercise is to add your name to [this](AUTHORS.md) list. To complete 
 
 Your entry should maintain alphabetic order and it should be in the format:
 
-`* your name [username](http://github.com/username)`. 
+`* your name [username](https://github.com/username)`.
 
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 After adding the name execute update.py to update the readme.
