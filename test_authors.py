@@ -20,7 +20,7 @@ def test_authors():
         l = line.split()
         assert l[0] == '*'
         name = (' '.join(l[1:-1])).lower()
-        assert name > prev
+        assert name >= prev
         username, link = l[-1].split(']')
         assert username[0] == '['
         assert link[0] == '('
