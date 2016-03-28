@@ -30,6 +30,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Yashu Seth [yashu-seth](http://github.com/yashu-seth)
 * Yatna Verma [yatna](http://github.com/yatna)
 * Sumith [Sumith1896](http://github.com/Sumith1896)
+* Harshit [iamharshit](https://github.com/iamharshit)
 
 ### Other Resources
 
