@@ -34,6 +34,7 @@ After adding the name execute update.py to update the readme.
 * Shashank Shekhar [sshkhrnwbie](https://github.com/sshkhrnwbie)
 * Shivam Tyagi [shivamT95](https://github.com/shivamT95)
 * Sumith [Sumith1896](https://github.com/Sumith1896)
+* Yash Nisar [yash-nisar](https://github.com/yash-nisar)
 * Yashu Seth [yashu-seth](https://github.com/yashu-seth)
 * Yatna Verma [yatna](https://github.com/yatna)
 
