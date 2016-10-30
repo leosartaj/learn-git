@@ -12,3 +12,4 @@
 * Yash Nisar [yash-nisar](https://github.com/yash-nisar)
 * Yashu Seth [yashu-seth](https://github.com/yashu-seth)
 * Yatna Verma [yatna](https://github.com/yatna)
+* Kaustubh Singh [kaustubhsingh97](https://github.com/kaustubhsingh97)
