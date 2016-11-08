@@ -2,6 +2,7 @@
 * Avinash Agarwal [manu4rhyme](https://github.com/manu4rhyme)
 * Dushyant Mishra [zero1hac](https://github.com/zero1hac)
 * Govind Sahai [mafiya69](https://github.com/mafiya69)
+* Kaustubh Singh [kaustubhsingh97](https://github.com/kaustubhsingh97)
 * Mit Shah [Mitshah4343](https://github.com/Mitshah4343)
 * Rehas Sachdeva [rehassachdeva](https://github.com/rehassachdeva)
 * Rishabh Daal [rd13123013](https://github.com/rd13123013)
