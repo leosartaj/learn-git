@@ -14,4 +14,5 @@
 * Vaibhav Kumar Dixit [Vaibhavdixit02](https://github.com/Vaibhavdixit02)
 * Yash Nisar [yash-nisar](https://github.com/yash-nisar)
 * Yashu Seth [yashu-seth](https://github.com/yashu-seth)
+* Yash Trivedi [yashtrivedi96](https://github.com/yashtrivedi96)
 * Yatna Verma [yatna](https://github.com/yatna)
