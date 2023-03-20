@@ -18,3 +18,4 @@
 * Yash Trivedi [yashtrivedi96](https://github.com/yashtrivedi96)
 * Yatna Verma [yatna](https://github.com/yatna)
 * Michael Benjamin [sckret](https://github/sckret)
+* Holdee Pang [holdeepang](https://github.com/holdeepang)

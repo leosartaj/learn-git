@@ -41,6 +41,7 @@ After adding the name execute update.py to update the readme.
 * Yashu Seth [yashu-seth](https://github.com/yashu-seth)
 * Yash Trivedi [yashtrivedi96](https://github.com/yashtrivedi96)
 * Yatna Verma [yatna](https://github.com/yatna)
+* Holdee Pang [holdeepang](https://github.com/holdeepang)
 
 ### Other Resources
 
